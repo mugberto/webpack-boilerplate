@@ -1,3 +1,8 @@
 .hello {
     color: red;
 }
+
+.logo {
+    width: 100vw;
+    object-fit: cover;
+}
